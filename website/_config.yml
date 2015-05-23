@@ -1,0 +1,22 @@
+# Site settings
+title: Atarau
+email: info@atarau.org
+telephone: "+49 176 2722 2431"
+description: Digital Social Innovation. #> this means to ignore newlines until "baseurl:" 
+baseurl: "" # the subpath of your site, e.g. /blog/
+# url: "http://localhost:4000" # Dev: The base hostname & protocol for your site
+url: "http://dev.atarau.org" # Test: The base hostname & protocol for your site
+# url: "http://atarau.org" # Prod: The base hostname & protocol for your site
+twitter_username: ataraublog
+twitter_home: "https://twitter.com/ataraublog"
+github_username:  atarau
+github_home: "https://github.com/atarau"
+linkedin_username:  atarau
+linkedin_home: "https://www.linkedin.com/company/atarau"
+xing_username:  atarau
+xing_home: "https://www.xing.com/companies/atarau"
+medium_username:  ataraublog
+medium_home: "https://medium.com/@ataraublog"
+
+# Build settings
+markdown: kramdown

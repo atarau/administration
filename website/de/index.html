@@ -1,0 +1,38 @@
+---
+layout: null
+---
+
+<!DOCTYPE HTML>
+<html>
+
+{% include head.html %}
+
+<body class="home">
+
+	<div class="language"><a href="{{ "/en/" | prepend: site.baseurl | prepend: site.url }}">en</a> &#8226; de</div>
+	<div class="logo"></div>
+
+   {% include expertise_de.html %}
+
+   {% include services_de.html %}
+
+   {% include external_de.html %}
+
+	<section class="footer">
+		<div class="clearfix mxn2">
+			<div class="sm-col sm-col-12 px2">
+				<p>&copy; 2015 &#8226; <a href="{{ "/de/impressum/" | prepend: site.baseurl | prepend: site.url }}">Impressum</a></p>
+			</div>
+		</div>
+	</section>
+
+	<div class="stage">		
+		<div class="elem">
+		</div>
+		<div class="elem two">
+		</div>		
+	</div>
+</body>
+
+</html>
+
