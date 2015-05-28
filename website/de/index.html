@@ -9,7 +9,7 @@ layout: null
 
 <body class="home">
 
-	<div class="language"><a href="/en/">en</a> &#8226; de</div>
+	<div class="language"><a href="{{ "/en/" | prepend: site.baseurl | prepend: site.url }}">en</a> &#8226; de</div>
 	<div class="logo"></div>
 
    {% include expertise_de.html %}
