@@ -18,7 +18,7 @@ E-Mail: {{site.email}}
 Geschäftsführer: Jonathan Pengelly
 	
 ### Gewerbedaten
-Umsatzsteuer-ID: 12345678  
-HRB: 12345678  
+Umsatzsteuer-ID:   
+HRB:   
 Aufsichtsbehörde: Amtsgericht München  
 

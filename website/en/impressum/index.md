@@ -19,6 +19,6 @@ Email: {{site.email}}
 Director: Jonathan Pengelly
 
 ### Registration Details
-Umsatzsteuer-ID: 12345678  
-Wirtschafts-ID: 12345678  
+Umsatzsteuer-ID:   
+Wirtschafts-ID:   
 Company Office: Munich, Germany  
